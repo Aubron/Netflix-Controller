@@ -11,8 +11,10 @@
       "matches": [ "http://www.netflix.com/WiPlayer*" ],
       "run_at": "document_idle"
    } ],
+   "icons": {
+           "48": "netflix48.png",
+          "128": "netflix128.png" },
    "description": "Allows one to control a netflix watch page with an xbox (only tested) controller.",
-   "key": "YKsycvimJFIISmP2Uwd7CHSB8Ie5e/LUCGYEP8RzeQ8=",
    "name": "Netflix Controller Support",
    "version": "0.1",
    "permissions": [
