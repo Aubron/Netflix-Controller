@@ -18,6 +18,9 @@ Keys
 (These keys assume an XBox 360 Controller. The extension has not been tested with other controllers.
 
 A: Play/Pause
+
 B: Close Netflix
+
 Left Joy (left/right): Seek
+
 Right Joy (up/down): Volume Up/Down
